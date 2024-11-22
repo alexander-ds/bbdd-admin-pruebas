@@ -1,6 +1,6 @@
-# bbdd-prueba-ceinfes
+# bbdd-admin-pruebas
 
-- Este Repositorio contiene los scripts de BBDD para prueba de CEINFES para la vacante de desarrollador asi como el diagrama implementado.
+- Este Repositorio contiene los scripts de BBDD del ejercicio de pruebas  asi como el diagrama implementado.
 
 - La base de datos fue desarrollada en la herramienta de Microsoft SQL Server Management Studio con el lenguaje SQL 
 
